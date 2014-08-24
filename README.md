@@ -1,3 +1,7 @@
+Important: For use the app on you local machine you have to download all 4 files; project.R, database.RData, ui.R and server.R, all have to be on the same folder.
+
+
+
 ## Short Explanation
 
 When you release a product, you are maybe interested in what people like about
